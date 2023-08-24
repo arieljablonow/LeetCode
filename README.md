@@ -5,3 +5,5 @@ Collection of LeetCode practice problems
 Median of two sorted arrays
 https://leetcode.com/problems/median-of-two-sorted-arrays
 
+FizzBuzz
+https://leetcode.com/problems/fizz-buzz/
