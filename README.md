@@ -8,6 +8,6 @@ Collection of LeetCode practice problems
 
 [solution](https://github.com/arieljablonow/LeetCode/blob/main/fizzbuzz.py) to [fizzbuzz](https://leetcode.com/problems/fizz-buzz/) 
 
-
+[solution](https://github.com/arieljablonow/LeetCode/blob/main/longest_consecutive_secquence.py) to [longest consecutive sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
 
 
