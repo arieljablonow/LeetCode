@@ -5,14 +5,13 @@ class Solution(object):
         :rtype: List[int]
         """
 
-        arr = []
+        ret = []
 
         if(num % 3 == 0):
-            arr.append((num/3 -1))
-            arr.append(num/3)
-            arr.append(num/3+1)
+            ret.append((num/3 -1))
+            ret.append(num/3)
+            ret.append(num/3+1)
 
 
-        print(arr)
+        return ret
 
-        return arr
