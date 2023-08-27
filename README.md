@@ -10,4 +10,4 @@ Collection of LeetCode practice problems
 
 [solution](https://github.com/arieljablonow/LeetCode/blob/main/longest_consecutive_sequence.py) to [longest consecutive sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
 
-
+[solution](https://github.com/arieljablonow/LeetCode/blob/main/find_three_consecutive_integers_that_sum_to_a_given_number.py) to [https://leetcode.com/problems/find-three-consecutive-integers-that-sum-to-a-given-number/]
